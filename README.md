@@ -16,3 +16,4 @@ Installing and running the app is simple. Just a single command will install all
 `
 npm start
 `
+Once the server has been started use your browser to navigate to `localhost:8000`
